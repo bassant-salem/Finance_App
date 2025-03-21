@@ -1,7 +1,12 @@
-Personal Finance Web App
 
-Overview:
+## 📌 Overview  
+The **Personal Finance Web App** is a powerful financial management tool built with **ASP.NET Core MVC**. It helps users **track income, expenses, budgets, and financial goals** with an intuitive interface, providing insights into their financial health.  
 
-The Personal Finance Web App is a fully functional web application built using ASP.NET Core MVC. 
-It is designed to help users manage their personal finances by tracking income, expenses, budgets, and financial goals.
-The app provides a simple and intuitive interface for users to stay on top of their financial health.
+## ✨ Features  
+- 📊 **Track Income & Expenses**  
+- 💰 **Budget Management & Alerts**  
+- 🎯 **Set & Monitor Financial Goals**  
+- 📅 **Transaction History & Categorization**  
+- 📈 **Interactive Charts for Insights**  
+- 🛡️ **Secure User Authentication (ASP.NET Identity)**  
+- 📱 **Responsive Design (Mobile & Desktop Friendly)**  
