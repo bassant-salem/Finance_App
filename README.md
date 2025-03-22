@@ -9,4 +9,7 @@ The **Personal Finance Web App** is a powerful financial management tool built w
 - 📅 **Transaction History & Categorization**  
 - 📈 **Interactive Charts for Insights**  
 - 🛡️ **Secure User Authentication (ASP.NET Identity)**  
-- 📱 **Responsive Design (Mobile & Desktop Friendly)**  
+- 📱 **Responsive Design (Mobile & Desktop Friendly)**
+
+  ## Screenshot
+  [Finance_App](https://github.com/user-attachments/assets/922b03f3-3ee0-41c1-a698-8ee08877625c)
