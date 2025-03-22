@@ -12,4 +12,4 @@ The **Personal Finance Web App** is a powerful financial management tool built w
 - 📱 **Responsive Design (Mobile & Desktop Friendly)**
 
   ## Screenshot
-  [Finance_App](https://github.com/user-attachments/assets/922b03f3-3ee0-41c1-a698-8ee08877625c)
+  ![Finance_App](https://github.com/user-attachments/assets/922b03f3-3ee0-41c1-a698-8ee08877625c)
