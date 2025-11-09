@@ -178,12 +178,7 @@ dotnet test
 
 > **Note**: Currently implementing unit tests using xUnit and Moq for business logic
 
-## 📝 Code Quality
 
-- **Code Coverage**: [Add coverage percentage when implemented]
-- **Code Standards**: Following C# coding conventions
-- **Documentation**: XML comments on public methods
-- **Error Handling**: Comprehensive try-catch blocks and custom error pages
 
 ## 🤝 Contributing
 
@@ -195,18 +190,15 @@ This is a personal learning project, but suggestions and feedback are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
 **Bassant Salem**
 - 🎓 Computer Science Graduate - Ain Shams University
 - 💼 Aspiring .NET Developer
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website if you have one]
+- 📧 Email: [bassantsalem605@gmail.com]
+- 💼 LinkedIn: [http://www.linkedin.com/in/bassant-salem-9b200a238]
+
 
 ## 🙏 Acknowledgments
 
